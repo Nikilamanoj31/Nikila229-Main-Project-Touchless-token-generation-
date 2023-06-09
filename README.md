@@ -1,1 +1,11 @@
-# Nikila229-Main-Project-Touchless-token-generation-
+                                         TOUCHLESS TOKEN GENERATION SYSTEM
+             A touchless token generation system is a software solution that generates tokens without physical contact or manual interaction. It helps in reducing wait times, increasing customer satisfaction, and reducing the interaction between people or objects. In the current scenario, it is equally important to have an automated system and avoid the spread of diseases through unsanitary touch. The proposed system can be used to overcome the existing manual token dispenser by employing a webcam or a built-in camera for capturing hand gestures and hand tip detection using computer vision to generate tokens. The system makes use of machine learning classification algorithms such as RandomForest, DecisionTree, NaiveBayes, SVM, and KNN to train the model. Based on hand gestures, the computer can be controlled virtually and can perform token generation without the use of a physical object.  The system uses computer vision library to fetch input frames from the video capturing the hands. It uses media pipe framework to detect the hand gestures thereby marking the significant landmarks. Each time a hand gesture is detected the token count increases. 
+             Hence, the proposed system eliminates the need for physical contact reducing the risk of spreading infection and contamination. Tokens can be generated quickly and easily making the process faster and more convenient for users.
+
+The system architecture of the proposed system includes:-
+![archi1](https://github.com/Nikilamanoj31/Nikila229-Main-Project-Touchless-token-generation-/assets/94917436/088cd520-b7b2-4420-8b91-8775687ac673)
+![archi2](https://github.com/Nikilamanoj31/Nikila229-Main-Project-Touchless-token-generation-/assets/94917436/fe164c24-a449-4127-a9d9-a9cb41afb7bf)
+The prosposed system when deployed-
+![out2](https://github.com/Nikilamanoj31/Nikila229-Main-Project-Touchless-token-generation-/assets/94917436/9129682d-000e-4fb4-8077-dd710f4f43d7)
+![out3](https://github.com/Nikilamanoj31/Nikila229-Main-Project-Touchless-token-generation-/assets/94917436/b6b54e5b-4555-4e09-9ef6-8a840607e027)
+![out1](https://github.com/Nikilamanoj31/Nikila229-Main-Project-Touchless-token-generation-/assets/94917436/f6503da6-12cc-40e4-8e72-f9b21d6c68d7)
